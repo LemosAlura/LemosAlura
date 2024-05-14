@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 💜
 
-<!--
-**LemosAlura/LemosAlura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **VERONICA**
 
-Here are some ideas to get you started:
+  #Tenho 17 anos
+ 
+  #Sou aluna do alura
+  
+  #Estou fazendo o curso para aprender sobre programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ![](https://naomekahlo.com/wp-content/uploads/2018/09/c2a396_227732f9635a420ba314af6c8b429e5f.gif)
+  
