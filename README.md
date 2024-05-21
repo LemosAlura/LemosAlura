@@ -9,5 +9,5 @@ Meu nome é **VERONICA**
   #Estou fazendo o curso para aprender sobre programação
 
 
- ![]https://search.app.goo.gl/ons88TB
+ ![](https://search.app.goo.gl/ons88TB)
   
