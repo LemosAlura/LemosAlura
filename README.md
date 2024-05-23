@@ -1,12 +1,14 @@
 ### Bem vindo ao meu perfil 💜🌧️☕
 
-Meu nome é **VERONICA** 
+Meu nome é **verônica** 
 
   📸🥀 Tenho 17 anos
  
   👘⚔️ Sou aluna do alura
 
-  💻Estou fazendo o curso para aprender sobre programação
+  💻📂Estou fazendo o curso para aprender sobre programação
+
+  🎭Nossas criações e evoluções em compartilhamento.
 
  🎞️🗡️
  
